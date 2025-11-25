@@ -1,0 +1,5 @@
+{
+  "name": "HireAI - Smart Job Board",
+  "description": "A modern job board application where users can browse vacancies, apply with AI-generated cover letters, and recruiters can post jobs using AI to draft descriptions.",
+  "requestFramePermissions": []
+}
